@@ -1,0 +1,1 @@
+Index.PACKAGES = {"example" : [{"trait" : "example\/HelloExample.html", "name" : "example.HelloExample"}]};
