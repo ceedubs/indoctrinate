@@ -2,9 +2,9 @@
 layout: source
 title:  "Hello"
 section: "example"
-scaladoc: "http://localhost:4000/indoctrinate/api/#example.HelloExample"
+scaladoc: "http://stew.github.io/indoctrinate/api/#example.HelloExample"
 source: "https://github.com/stew/indoctrinate/blob/master/example/src/main/scala/Example.scala"
-pageSource: "https://github.com/stew/indoctrinate/blob/master/docs/src/main/tut/exampe.md"
+pageSource: "https://raw.githubusercontent.com/stew/indoctrinate/master/docs/src/main/tut/example.md"
 ---
 # HelloExample
 
@@ -22,7 +22,7 @@ scala> // create an instance of HelloExample
      | val hello = new HelloExample {
      |   val someone = "there"
      | }
-hello: example.HelloExample = $anon$1@3effc2cb
+hello: example.HelloExample = $anon$1@729084db
 
 scala> hello.hello
 hello: there
