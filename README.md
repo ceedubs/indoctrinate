@@ -6,7 +6,9 @@ stripped of all content except for a few demo files that you can
 immediately start playing with.
 
 To get started playing right away, clone this repository, then start
-reading [here](https://github.com/stew/indoctrinate/blob/master/docs/src/site/index.md)
+reading
+[here](https://github.com/stew/indoctrinate/blob/master/docs/src/site/index.md)
+or read the [generated documentation site](http://stew.github.io/indoctrinate/)
 
 We are relying on 4 different sbt plugins for documentation:
 

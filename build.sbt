@@ -2,7 +2,7 @@ import sbtunidoc.Plugin.UnidocKeys._
 
 name := "indoctrinate"
 
-organization in Global := "stew"
+organization in Global := "some.organization"
 
 lazy val example = project
 
