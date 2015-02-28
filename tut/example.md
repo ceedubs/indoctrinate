@@ -22,7 +22,7 @@ scala> // create an instance of HelloExample
      | val hello = new HelloExample {
      |   val someone = "there"
      | }
-hello: example.HelloExample = $anon$1@729084db
+hello: example.HelloExample = $anon$1@4ed3b813
 
 scala> hello.hello
 hello: there
