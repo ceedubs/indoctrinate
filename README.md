@@ -10,12 +10,17 @@ reading
 [here](https://github.com/stew/indoctrinate/blob/master/docs/src/site/index.md)
 or read the [generated documentation site](http://stew.github.io/indoctrinate/)
 
+If you want to incorporate this into your project, you can perhaps
+copy the docs directory from this project into your own project and
+define docs to be a subproject of your build, then start editing the
+files inside docs/src to customize your site.
+
 We are relying on 4 different sbt plugins for documentation:
 
 ## [tut](https://github.com/tpolecat/tut)
 
 Tut gives us the ability to "compile" our documentation against code
-in the other subprojects.  Code in "tut sheds" like this:
+in the other sub-projects.  Code in "tut sheds" like this:
 
     ```tut
     println("hello world")
