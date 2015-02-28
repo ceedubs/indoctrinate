@@ -5,6 +5,9 @@ machinery of the [cats](https://github.com/non/cats) project, but
 stripped of all content except for a few demo files that you can
 immediately start playing with.
 
+To get started playing right away, clone this repository, then start
+reading [here](https://github.com/stew/indoctrinate/blob/master/docs/src/site/index.md)
+
 We are relying on 4 different sbt plugins for documentation:
 
 ## [tut](https://github.com/tpolecat/tut)

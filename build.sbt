@@ -11,5 +11,3 @@ lazy val docs = project
   .dependsOn(example)
 
 lazy val indoctrinate = project dependsOn example dependsOn docs
-
-
