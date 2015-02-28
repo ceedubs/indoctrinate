@@ -20,15 +20,9 @@ run `sbt docs/makeSite`
 
     brew install jekyll
 
-or
-
     yum install jekyll
 
-or
-
     apt-get install jekyll
-
-or
 
     gem install jekyll
 
