@@ -8,7 +8,7 @@ pageSource: "https://raw.githubusercontent.com/stew/indoctrinate/master/docs/src
 ---
 # HelloExample
 
-Because our `docs` project is declared to depend on the `exmple`
+Because our `docs` project is declared to depend on the `example`
 project in the main
 [build.sbt](https://github.com/stew/indoctrinate/blob/master/build.sbt),
 we can import classes from our example project and use them in
